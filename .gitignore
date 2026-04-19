@@ -1,0 +1,5 @@
+__pycache__
+*.pyc
+pdf_output.txt
+scratch_test.py
+eval.py
